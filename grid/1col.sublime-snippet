@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<div class="col-lg-12">
+    $1
+</div>
+]]></content>
+    <tabTrigger>bs3-grid-1col</tabTrigger>
+    <description>Boostrap3 grid 1 column</description>
+</snippet>

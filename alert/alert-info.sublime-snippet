@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<div class="alert alert-dismissable alert-info">$1</div>
+]]></content>
+    <tabTrigger>bs3-alert-info</tabTrigger>
+    <description>Boostrap3 info alert</description>
+</snippet>
