@@ -1,4 +1,4 @@
-## Boostrap3 Sublime Text 2 Snippet
+## Bootstrap3 Sublime Text 2 Snippet
 
 Collection of Boostrap3 snippets for Sublime Text 2.
 
