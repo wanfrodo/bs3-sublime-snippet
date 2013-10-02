@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<a class="btn btn-default btn-xs" href="$1">$2</a>
+]]></content>
+    <tabTrigger>bs3-button-anchor-xs</tabTrigger>
+    <description>Boostrap3 button anchor extra small</description>
+</snippet>

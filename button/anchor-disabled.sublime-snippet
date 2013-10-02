@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<a class="btn btn-default disabled" href="$1">$2</a>
+]]></content>
+    <tabTrigger>bs3-button-anchor-disabled</tabTrigger>
+    <description>Boostrap3 button anchor disabled</description>
+</snippet>

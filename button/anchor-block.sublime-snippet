@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<a class="btn btn-default btn-block" href="$1">$2</a>
+]]></content>
+    <tabTrigger>bs3-button-anchor-block</tabTrigger>
+    <description>Boostrap3 button anchor block</description>
+</snippet>
