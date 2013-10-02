@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+<ol class="breadcrumb">
+    <li><a href="$1">$2</a></li>
+    <li><a href="$2">$3</a></li>
+    <li class="active"><a href="$4">$5</a></li>
+</ul>
+]]></content>
+    <tabTrigger>bs3-breadcrumb</tabTrigger>
+    <description>Boostrap3 breadcrumb component</description>
+</snippet>

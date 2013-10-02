@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<div class="btn-group btn-group-lg">
+    $1
+</div>
+]]></content>
+    <tabTrigger>bs3-button-group-large</tabTrigger>
+    <description>Boostrap3 button group large</description>
+</snippet>

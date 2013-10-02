@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<div class="page-header">
+    $1
+</div>
+]]></content>
+    <tabTrigger>bs3-page-header</tabTrigger>
+    <description>Boostrap3 page header component</description>
+</snippet>

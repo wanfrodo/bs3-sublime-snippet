@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<div class="well well-lg">
+    $1
+</div>
+]]></content>
+    <tabTrigger>bs3-well-large</tabTrigger>
+    <description>Boostrap3 well large component</description>
+</snippet>

@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+<div class="dropdown">
+    <ul class="dropdown-menu">
+        <li><a href="$1">$2</a></li>
+        <li><a href="$3">$4</a></li>
+        <li><a href="$5">$6</a></li>
+    </ul>
+</div>
+]]></content>
+    <tabTrigger>bs3-dropdown</tabTrigger>
+    <description>Boostrap3 dropdown component</description>
+</snippet>

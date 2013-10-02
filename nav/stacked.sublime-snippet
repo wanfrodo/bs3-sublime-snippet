@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+<ul class="nav nav-pills nav-stacked">
+    <li class="active"><a href="$1">$2</a></li>
+    <li><a href="$3">$4</a></li>
+    <li><a href="$5">$6</a></li>
+</ul>
+]]></content>
+    <tabTrigger>bs3-nav-stack</tabTrigger>
+    <description>Boostrap3 stack navigation</description>
+</snippet>

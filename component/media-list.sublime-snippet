@@ -1,0 +1,17 @@
+<snippet>
+    <content><![CDATA[
+<ul class="media-list">
+    <li class="media">
+        <a class="pull-left" href="$1">
+            <img src="$2" alt="$3" class="media-object">
+        </a>
+        <div class="media-body">
+            <h4 class="media-heading">Heading</h4>
+            $4
+        </div>
+    </li>
+</ul>
+]]></content>
+    <tabTrigger>bs3-media-list</tabTrigger>
+    <description>Boostrap3 media list component</description>
+</snippet>

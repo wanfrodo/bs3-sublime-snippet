@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<div class="btn-group btn-group-justified">
+    $1
+</div>
+]]></content>
+    <tabTrigger>bs3-button-group-justified</tabTrigger>
+    <description>Boostrap3 button group justified</description>
+</snippet>

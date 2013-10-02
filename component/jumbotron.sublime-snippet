@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+<div class="jumbotron">
+    <div class="container">
+        $1
+    </div>
+</div>
+]]></content>
+    <tabTrigger>bs3-jumbotron</tabTrigger>
+    <description>Boostrap3 jumbotron component</description>
+</snippet>

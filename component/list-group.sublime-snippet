@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+<ul class="list-group">
+    <li class="list-group-item">$1</li>
+    <li class="list-group-item">$2</li>
+    <li class="list-group-item">$3</li>
+</ul>
+]]></content>
+    <tabTrigger>bs3-list-group</tabTrigger>
+    <description>Boostrap3 list group component</description>
+</snippet>
